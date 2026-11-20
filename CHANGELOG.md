@@ -23,6 +23,12 @@ Koenig, Tolbert Lanston…
   203 dpi), and the admin can correct the paper feed once by measuring a printed ruler. The gadgets are
   also blocks (`ruler`, `target`, `circle`, `rectangle`, `protractor`, `grid_paper`, `ring_sizer`,
   `die`), available in the composer.
+- **Chord** gadget (`chord`): a guitar or bass chord diagram with fingering, picked from the main chords
+  (or any chord name such as `F#m7`), at random, or a page of empty grids to fill in.
+- **Optical illusion** gadget (`illusion`): 17 illusions drawn on the fly (Hermann grid, Zöllner lines,
+  Müller-Lyer arrows, Ebbinghaus circles, Ponzo rails, Ouchi pattern, Kanizsa triangle, Hering rays, café
+  wall, Poggendorff, Jastrow arcs, Sander parallelogram, Ehrenstein grid, afterimage, Necker cube,
+  upside-down T, Orbison square), or one at random, with a question and the answer printed upside down.
 - **`image`**: `rotate` turns it a quarter turn, so a landscape photo prints large; `width_mm` prints it
   at an exact width.
 - **`PRINTR_PAPER_WIDTH=576`** for 80 mm printers at 203 dpi (most brands other than the TM-T88), also
