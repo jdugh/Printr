@@ -33,6 +33,9 @@ Koenig, Tolbert Lanston…
   upside-down T, Orbison square), or one at random, with a question and the answer printed upside down.
 - **`image`**: `rotate` turns it a quarter turn, so a landscape photo prints large; `width_mm` prints it
   at an exact width.
+- **Battleship** (`battleship`): each player gets a ticket with their fleet already placed at random and an
+  empty grid for their shots, A-J × 1-10 or smaller grids for kids (8 × 8, 6 × 6), with a fleet sized to
+  the grid.
 - **`PRINTR_PAPER_WIDTH=576`** for 80 mm printers at 203 dpi (most brands other than the TM-T88), also
   set in the app (My account → Settings → Paper width): tickets printed 64 mm wide and off-center there.
   Text now uses 48 columns in font A and 64 in font B, and images narrower than the paper are centered
